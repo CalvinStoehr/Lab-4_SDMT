@@ -4,4 +4,3 @@ Calvin Stoehr
 Partner: Tom Bergeron
 
 This Might cause a merge conflict
-THis SHOULD CAUSE SOME CONFLICTS
